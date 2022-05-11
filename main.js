@@ -9,6 +9,13 @@ function onScroll() {
   //navigation.classList.add('scroll');
   showNavOnScroll();
   showBackToTopButtonOnScroll();
+  activateMenuAtCurrentSection();
+}
+
+function activateMenuAtCurrentSection() {
+  const targetLine = scrollY + innerHeight/2;
+  
+  //Verify if the section cross the targetLine
 }
 
 function showNavOnScroll() {
