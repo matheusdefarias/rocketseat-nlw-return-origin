@@ -525,7 +525,7 @@ footer .social-links {
   body {
     overflow: auto;
   }
-  
+
   .wrapper {
     width: min(112rem, 100%);
     display: grid;
@@ -745,7 +745,7 @@ footer .social-links {
 
   #about .wrapper {
     grid-template-columns: 48rem 1fr;
-    grid-template-areas: 'B A';
+    grid-template-areas: "B A";
     gap: 6.7rem;
   }
 
@@ -761,7 +761,7 @@ footer .social-links {
 
   #contact .wrapper {
     grid-template-columns: 1fr 57.5rem;
-    grid-template-areas: 'A B';
+    grid-template-areas: "A B";
     gap: 6.7rem;
   }
 
@@ -777,7 +777,7 @@ footer .social-links {
 
   footer .wrapper {
     grid-template-columns: 1fr 1fr;
-    grid-template-areas: 'A B';
+    grid-template-areas: "A B";
   }
 
   footer .col-a {
