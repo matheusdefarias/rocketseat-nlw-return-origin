@@ -2,10 +2,10 @@
 <p align="center">Repository for the project developed at the "Next Level Week Return" event on the Origin track promoted by Rocketseat</p>
 
 <p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#-license">License</a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <img alt="DoctorCare" src="https://github.com/matheusdefarias/rocketseat-nlw-return-origin/blob/main/preview.jpg" width="100%">
 </p>
 
-## 🚀 Technologies
+## 🚀 [Technologies](#technologies)
 
 This project was developed with the following technologies:
 
@@ -29,15 +29,15 @@ This project was developed with the following technologies:
 - JavaScript
 - [ScrollReveal](https://scrollrevealjs.org/)
 
-## 💻 Project
+## 💻 [Project](#project)
 
 DoctorCare is an institutional page in the One Page format, responsive, to be used in various types of micro, small and medium-sized companies. Contains the following sections: Header, Navigation, Home, About, Services and Footer
 
-## 🔖 Layout
+## 🔖 [Layout](#layout)
 
 You can view the layout of the project through [this link](https://www.figma.com/community/file/1102912263666619803). You must have an account on [Figma](https://figma.com) to access it.
 
-## 📝 License
+## 📝 [License](#license)
 
 This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
 
